@@ -1,72 +1,33 @@
 .navbar {
   background-color:white;
-  background-image: none;
-  background-repeat: no-repeat;
+  background-image:none;
+  background-repeat:no-repeat;
  }
-
-
 
 img {
   display: block;
 }
 
-.thumbnail {
-  position: relative;
-  display: inline-block;
-}
+
 
 .caption {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate( -50%, -50% );
-  text-align: center;
-  color: white;
-  font-weight: bold;
-  font-size: 5em;
-}
-.inputs{
-
-  font-weight: bold;
-  text-align: cleft;
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate( -50%, -50% );
+  text-align:center;
   color:white;
-  background-color: transparent;
-  padding: 3em;
-  margin-left: 3em;
-  margin-right: 6em;
-  margin-top: 6em;
-  margin-bottom: 6em;
+  font-weight:bold;
+  font-size:5em;
 }
-
 
 input[type=text] {
-  width: 100%;
-  height: 400%;
-  padding: 1em 1em;
-  margin: 1em 0;
+  width:100%;
+  height:400%;
+  padding:1em 1em;
+  margin:1em 0;
   
 }
-
-
-
-
-.text-cetre{
-  color: white;
-}
-
-
-
-.page-holder {
-  
-  background-size: contain;
-}
-
-.bg-cover {
-  color:lightblue;  
-
-}
-
-
 
 body{
   background-color:black;
