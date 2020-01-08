@@ -1,17 +1,2 @@
 
 
-img {
-    border: 1px solid #ddd;
-    border-radius: 1em;
-    padding: 1em;
-    padding-top: 100;
-    padding-left: 2;
-  }
-
-  body{
-    background-color:black;
-}
-
-.carousel-inner > .item > img {
-  margin: 0 auto;
-}
