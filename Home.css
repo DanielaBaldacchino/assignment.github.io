@@ -13,6 +13,13 @@ nav {
 }
 
 .text-center{
-    font-size: 40px;
-padding-top: 2cm;
+    font-size: 4em;
+padding-top: 2em;
+}
+
+.img-fluid{
+   
+        width: 100%;
+        height: auto;
+    
 }
