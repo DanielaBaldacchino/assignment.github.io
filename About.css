@@ -1,23 +1,12 @@
 
 
-
-img {
-  display: block;
-}
-
-.thumbnail {
+a{
   position: relative;
-  display: inline-block;
 }
 
-.text {
+a p {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate( -50%, -50% );
-  text-align: center;
-  color: white;
-  font-weight: bold;
-  font-size: 1em;
+  top: 1em;
+  left: 1em;
 }
 
