@@ -1,47 +1,54 @@
+.navbar {
+  background-color:white;
+  background-image: none;
+  background-repeat: no-repeat;
+ }
+.inputs{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  text-align: cleft;
+  color:white;
+  background-color: transparent;
+  padding: 27px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
 
-.text-block {
-    position: absolute;
-    bottom: 1em;
-    right: 1em;
-    left: 1em;
-    
-  }
-  
+
+input[type=text] {
+  width: 100%;
+  height: 200%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
 
 
-input[type=text], select, textarea {
-    width: 100%; 
-    padding: 3em;  
-    border: 1em solid #ccc; 
-    border-radius: 1em; 
-    box-sizing: border-box; 
-    margin-top: 1em; 
-    margin-bottom: 1em; 
-    resize: horizontal 
-  }
-  
-  
-  input[type=submit] {
-    background-color: rgb(5, 15, 5);
-    color: white;
-    padding: 1em 1em;
-    border: none;
- 
-    cursor: pointer;
-  }
-  
- 
-  input[type=submit]:hover {
-      padding: 1em;
-      padding-top: 1em;
-    background-color: grey;
-  }
-  
-  .container {
-    border-radius: 1em;
-    background-color:lightgrey;
-    padding-top: 1em;
-    padding:1em;
-  }
 
+
+.image{
+  background-image: url(websiteimages/images/image1);
+}
+
+
+
+.page-holder {
+  
+  background-size: contain;
+}
+
+.bg-cover {
+  color: black;  
+
+}
+
+
+
+body{
+  background-color: black;
+}
+
+  
  
