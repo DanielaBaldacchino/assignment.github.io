@@ -1,22 +1,17 @@
 body{
     background-color:white;
-
 }
 
-
 .nav a{
-
-    font-size: 6em !important;
+    font-size:6em !important;
 }
 
 .text-center{
-    font-size: 2em;
-padding-top: 2em;
+    font-size:2em;
+    padding-top:2em;
 }
 
 .img-fluid{
-   
-        width: 100%;
-        height: auto;
-    
+    width:100%;
+    height:auto;   
 }
