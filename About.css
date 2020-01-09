@@ -7,32 +7,24 @@
   background-repeat: no-repeat;
  }
 
-
-
  body{
   background-color:white;
-
 }
 
-
 .nav a{
- font-size: 6em !important;
+ font-size:6em !important;
 }
 
 .text-center{
-  font-size: 1.5em;
-padding-top: 2em;
-color: white;
+  font-size:1.5em;
+  padding-top:2em;
+  color:white;
 }
 
 .img-fluid{
- 
-      width: 100%;
-      height: auto;
-  
+  width: 100%;
+  height: auto;
 }
-
-
 
 body{
   background-color:black;
